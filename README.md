@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a tech enthusiast | competive programmer in codeforces,codechef,vjudge | Data Science enthusiast | love to learn new things.
+I'm a tech enthusiast | Competitive programmer @ codeforces,codechef,vjudge | Data Science / ML  enthusiast | love to learn new things.
 
 <!--
 **sif69/sif69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
